@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Lina Ahmad Ghojan  Full-Stack Software Engineer">
+  <rect width="1200" height="320" fill="#0F0F0F"/>
+  <rect x="0" y="0" width="8" height="320" fill="#FED000"/>
+  <circle cx="1120" cy="-40" r="160" fill="#FED000" fill-opacity="0.08"/>
+  <circle cx="1180" cy="300" r="90" fill="#FED000" fill-opacity="0.12"/>
+
+  <rect x="48" y="46" width="10" height="10" rx="5" fill="#22C55E"/>
+  <text x="68" y="56" fill="#FED000" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="2.2">AVAILABLE FOR WORK</text>
+
+  <text x="48" y="118" fill="#FFFFFF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">Hi, I'm</text>
+  <text x="48" y="176" fill="#FED000" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700">Lina Ahmad Ghojan</text>
+  <text x="48" y="220" fill="#EAEFEB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">Full-Stack Software Engineer  ·  Vue.js  ·  Laravel</text>
+  <text x="48" y="262" fill="#747566" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">Damascus  ·  Open to Remote  ·  Arabic &amp; English</text>
+</svg>

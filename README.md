@@ -2,18 +2,16 @@
 
 # Hi, I'm Lina Ahmad Ghojan
 
-**Full-stack developer** building web and mobile products with **Laravel** and **Vue.js**.  
-Open to **full-time roles** and **freelance** projects.
-
-[atlasdev.tech](https://atlasdev.tech) · [info@atlasdev.tech](mailto:info@atlasdev.tech)
+**Full-stack developer** focused on **Laravel** and **Vue.js**.  
+Open to **full-time roles** and freelance projects.
 
 </div>
 
 ---
 
-### What I do
+### What I build
 
-I design and ship admin dashboards, e-commerce, and business systems — from API to UI.
+Admin dashboards, e-commerce, and business systems — from API to UI.
 
 ### Stack
 
@@ -23,14 +21,12 @@ I design and ship admin dashboards, e-commerce, and business systems — from AP
 
 - **[SmartFlow](https://github.com/LinaAhmadGhojan/smart-flow)** — Laravel + Vue 3 operations platform (admin, products, categories)
 - **[Wasla Store](https://github.com/LinaAhmadGhojan/wasla-store)** — E-commerce built with Laravel
-- **[AtlasDev](https://github.com/LinaAhmadGhojan/Atlas-dev)** — Product studio website and case studies
 - **[Volunteer Management](https://github.com/LinaAhmadGhojan/ManagementVolunteer)** — PHP volunteer management system
+- **[E-commerce Vue](https://github.com/LinaAhmadGhojan/ecommerce-vue)** — Vue.js storefront UI
 
 ### Contact
 
-- Website: [atlasdev.tech](https://atlasdev.tech)
-- Email: [info@atlasdev.tech](mailto:info@atlasdev.tech)
-- GitHub: [@LinaAhmadGhojan](https://github.com/LinaAhmadGhojan)
+GitHub: [@LinaAhmadGhojan](https://github.com/LinaAhmadGhojan)
 
 ---
 
@@ -38,7 +34,7 @@ I design and ship admin dashboards, e-commerce, and business systems — from AP
 
 ### مرحباً، أنا لينا أحمد غوجان
 
-مطوّرة full-stack أبني أنظمة ويب وتطبيقات باستخدام **Laravel** و **Vue.js**.  
-متاحة لوظائف بدوام كامل ولمشاريع مستقلة.
+مطوّرة full-stack أبني أنظمة ويب باستخدام **Laravel** و **Vue.js**.  
+أبحث عن وظيفة بدوام كامل، ومتاحة لمشاريع مستقلة.
 
 </div>

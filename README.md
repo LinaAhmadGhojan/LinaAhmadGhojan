@@ -1,7 +1,7 @@
 <div align="center">
   <img src="banner.png" alt="Lina Ahmad Ghojan — Software Engineer" width="100%" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=22&pause=900&color=FED000&background=0F0F0F&center=true&vCenter=true&width=740&height=44&lines=Laravel+APIs+and+MySQL+architecture;Vue.js+admin+dashboards;ERP+systems+from+schema+to+UI" alt="Laravel APIs and MySQL architecture" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=22&pause=900&color=D4A800&background=00000000&center=true&vCenter=true&width=740&height=44&lines=Laravel+APIs+and+MySQL+architecture;Vue.js+admin+dashboards;ERP+systems+from+schema+to+UI" alt="Laravel APIs and MySQL architecture" />
   <br/>
   <img src="line.svg" alt="" />
 </div>
@@ -37,15 +37,15 @@ Open to backend and full-stack roles, including remote.
 
 <div align="center">
 
-![Laravel](https://img.shields.io/badge/Laravel-0F0F0F?style=flat-square&logo=laravel&logoColor=FED000)
-![PHP](https://img.shields.io/badge/PHP-0F0F0F?style=flat-square&logo=php&logoColor=FED000)
-![Vue](https://img.shields.io/badge/Vue.js-0F0F0F?style=flat-square&logo=vuedotjs&logoColor=FED000)
-![MySQL](https://img.shields.io/badge/MySQL-0F0F0F?style=flat-square&logo=mysql&logoColor=FED000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F0F0F?style=flat-square&logo=postgresql&logoColor=FED000)
-![Redis](https://img.shields.io/badge/Redis-0F0F0F?style=flat-square&logo=redis&logoColor=FED000)
-![Tailwind](https://img.shields.io/badge/Tailwind-0F0F0F?style=flat-square&logo=tailwindcss&logoColor=FED000)
-![Docker](https://img.shields.io/badge/Docker-0F0F0F?style=flat-square&logo=docker&logoColor=FED000)
-![Figma](https://img.shields.io/badge/Figma-0F0F0F?style=flat-square&logo=figma&logoColor=FED000)
+![Laravel](https://img.shields.io/badge/Laravel-FED000?style=flat-square&logo=laravel&logoColor=0F0F0F)
+![PHP](https://img.shields.io/badge/PHP-FED000?style=flat-square&logo=php&logoColor=0F0F0F)
+![Vue](https://img.shields.io/badge/Vue.js-FED000?style=flat-square&logo=vuedotjs&logoColor=0F0F0F)
+![MySQL](https://img.shields.io/badge/MySQL-FED000?style=flat-square&logo=mysql&logoColor=0F0F0F)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FED000?style=flat-square&logo=postgresql&logoColor=0F0F0F)
+![Redis](https://img.shields.io/badge/Redis-FED000?style=flat-square&logo=redis&logoColor=0F0F0F)
+![Tailwind](https://img.shields.io/badge/Tailwind-FED000?style=flat-square&logo=tailwindcss&logoColor=0F0F0F)
+![Docker](https://img.shields.io/badge/Docker-FED000?style=flat-square&logo=docker&logoColor=0F0F0F)
+![Figma](https://img.shields.io/badge/Figma-FED000?style=flat-square&logo=figma&logoColor=0F0F0F)
 
 </div>
 
@@ -81,7 +81,7 @@ Inventory, school, rent, transport, restaurant, commerce.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/eng.lina.ghojan@gmail.com-0F0F0F?style=flat-square&logo=gmail&logoColor=FED000)](mailto:eng.lina.ghojan@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/+963_995_019_487-0F0F0F?style=flat-square&logo=whatsapp&logoColor=FED000)](https://wa.me/963995019487)
+[![Email](https://img.shields.io/badge/eng.lina.ghojan@gmail.com-FED000?style=flat-square&logo=gmail&logoColor=0F0F0F)](mailto:eng.lina.ghojan@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/+963_995_019_487-FED000?style=flat-square&logo=whatsapp&logoColor=0F0F0F)](https://wa.me/963995019487)
 
 </div>

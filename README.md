@@ -28,12 +28,16 @@ I build the **backend** and the **database**. If the product has an admin dashbo
 
 ### Selected work
 
-<div align="center">
-  <img src="https://atlasdev.tech/lina-ahmad-ghojan/2-ecommerce/1.png" width="48%" alt="E-commerce platform" />
-  <img src="https://atlasdev.tech/lina-ahmad-ghojan/8-school/1.png" width="48%" alt="School management system" />
-  <img src="https://atlasdev.tech/lina-ahmad-ghojan/1-resturant/1.png" width="48%" alt="Restaurant management" />
-  <img src="https://atlasdev.tech/lina-ahmad-ghojan/9-Inventory-Management-System-/1.png" width="48%" alt="Inventory management" />
-</div>
+<table>
+  <tr>
+    <td width="50%"><img src="https://atlasdev.tech/lina-ahmad-ghojan/2-ecommerce/1.png" alt="E-commerce platform" /></td>
+    <td width="50%"><img src="https://atlasdev.tech/lina-ahmad-ghojan/8-school/1.png" alt="School management system" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://atlasdev.tech/lina-ahmad-ghojan/1-resturant/1.png" alt="Restaurant management" /></td>
+    <td width="50%"><img src="https://atlasdev.tech/lina-ahmad-ghojan/9-Inventory-Management-System-/1.png" alt="Inventory management" /></td>
+  </tr>
+</table>
 
 <br/>
 

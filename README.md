@@ -12,10 +12,10 @@
 <tr>
 <td width="50%" valign="top">
 
-### About
+<img src="title-about.png" alt="About" height="42" />
 
 I design the **database** and build the **backend**.  
-If the product needs an admin panel, the interface is mine too — Figma to Laravel + Vue.
+When a product needs an admin panel, I implement it in **Laravel** and **Vue**.
 
 Now at **CamelCase** on a multi-module ERP.  
 Open to backend and full-stack roles, including remote.
@@ -23,43 +23,67 @@ Open to backend and full-stack roles, including remote.
 </td>
 <td width="50%" valign="top">
 
-### Focus
+<img src="title-focus.png" alt="Focus" height="42" />
 
 - Laravel APIs, auth, roles, queues
+- PHP and Python backends
 - MySQL schema design and reporting
-- Vue 3 dashboards
-- Figma → working admin UI
+- Vue 3, Next.js, HTML and CSS
 - Payments, shipping, ERP integrations
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 <div align="center">
-
-![Laravel](https://img.shields.io/badge/Laravel-FED000?style=flat-square&logo=laravel&logoColor=0F0F0F)
-![PHP](https://img.shields.io/badge/PHP-FED000?style=flat-square&logo=php&logoColor=0F0F0F)
-![Vue](https://img.shields.io/badge/Vue.js-FED000?style=flat-square&logo=vuedotjs&logoColor=0F0F0F)
-![MySQL](https://img.shields.io/badge/MySQL-FED000?style=flat-square&logo=mysql&logoColor=0F0F0F)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FED000?style=flat-square&logo=postgresql&logoColor=0F0F0F)
-![Redis](https://img.shields.io/badge/Redis-FED000?style=flat-square&logo=redis&logoColor=0F0F0F)
-![Tailwind](https://img.shields.io/badge/Tailwind-FED000?style=flat-square&logo=tailwindcss&logoColor=0F0F0F)
-![Docker](https://img.shields.io/badge/Docker-FED000?style=flat-square&logo=docker&logoColor=0F0F0F)
-![Figma](https://img.shields.io/badge/Figma-FED000?style=flat-square&logo=figma&logoColor=0F0F0F)
-
+  <img src="title-stack.png" alt="Stack" height="42" />
+  <br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="52" alt="HTML" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="52" alt="CSS" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="52" alt="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="52" alt="PHP" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="52" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="52" alt="Laravel" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="52" alt="Vue.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="52" alt="Next.js" />
+  <br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="52" alt="MySQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="52" alt="PostgreSQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="52" alt="Redis" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="52" alt="Tailwind CSS" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="52" alt="Docker" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="52" alt="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="52" alt="Linux" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="52" alt="Nginx" />
 </div>
 
 ---
 
-### Work
+<img src="title-work.png" alt="Work" height="42" />
 
 **CamelCase** — Full-Stack Developer, ERP · 2021–present  
-10+ modules: manufacturing, sales, HR, warehouse, CRM, logistics. MySQL schemas, REST APIs for Vue and mobile, Figma dashboards, payment and shipping integrations. Report queries ~60% faster.
+10+ modules: manufacturing, sales, HR, warehouse, CRM, logistics. MySQL schemas, REST APIs for Vue and mobile, admin dashboards, payment and shipping integrations. Report queries ~60% faster.
 
 **Independent** — schema → Laravel API → dashboard UI  
 Inventory, school, rent, transport, restaurant, commerce.
 
-### Selected work
+<img src="title-selected.png" alt="Selected work" height="42" />
 
 <table>
   <tr>

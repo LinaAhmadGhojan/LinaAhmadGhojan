@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Experience stats">
+  <rect width="1200" height="150" fill="#0F0F0F"/>
+  <rect x="28" y="24" width="270" height="102" rx="16" fill="#161616" stroke="#2A2A2A"/>
+  <rect x="318" y="24" width="270" height="102" rx="16" fill="#161616" stroke="#2A2A2A"/>
+  <rect x="608" y="24" width="270" height="102" rx="16" fill="#161616" stroke="#2A2A2A"/>
+  <rect x="898" y="24" width="274" height="102" rx="16" fill="#161616" stroke="#2A2A2A"/>
+
+  <text x="163" y="72" text-anchor="middle" fill="#FED000" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="32" font-weight="700">4+</text>
+  <text x="163" y="100" text-anchor="middle" fill="#EAEFEB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Years Experience</text>
+
+  <text x="453" y="72" text-anchor="middle" fill="#FED000" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="32" font-weight="700">10</text>
+  <text x="453" y="100" text-anchor="middle" fill="#EAEFEB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">ERP Modules Delivered</text>
+
+  <text x="743" y="72" text-anchor="middle" fill="#FED000" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="32" font-weight="700">10</text>
+  <text x="743" y="100" text-anchor="middle" fill="#EAEFEB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Portfolio Projects</text>
+
+  <text x="1035" y="72" text-anchor="middle" fill="#FED000" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="32" font-weight="700">2</text>
+  <text x="1035" y="100" text-anchor="middle" fill="#EAEFEB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Core Languages</text>
+</svg>

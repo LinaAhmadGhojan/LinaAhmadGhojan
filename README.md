@@ -1,113 +1,65 @@
 <div align="center">
-  <img src="header.svg" alt="Hi, I'm Lina Ahmad Ghojan — Full-Stack Software Engineer" />
-  <img src="stats.svg" alt="4+ years experience, 10 ERP modules, 10 portfolio projects" />
+  <img src="banner.png" alt="Lina Ahmad Ghojan — Full-Stack Software Engineer. Available for work. Damascus, remote, Arabic and English." width="100%" />
 </div>
 
 <br/>
 
-<div align="center">
+I build the **backend** and the **database**. If the product has an admin dashboard, I design that too — from Figma to a working Laravel + Vue system.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F0F0F?style=for-the-badge&logoColor=FED000)](https://atlasdev.tech/lina-ahmad-ghojan/index.html)
-[![Email](https://img.shields.io/badge/eng.lina.ghojan@gmail.com-0F0F0F?style=for-the-badge&logo=gmail&logoColor=FED000)](mailto:eng.lina.ghojan@gmail.com)
-[![Phone](https://img.shields.io/badge/+963_995_019_487-0F0F0F?style=for-the-badge&logo=whatsapp&logoColor=FED000)](https://wa.me/963995019487)
+**Now:** Full-Stack Developer, ERP · CamelCase · 2021–Present  
+**Open to:** Backend / full-stack roles · ERP · Remote
 
-</div>
-
-I build the **backend** and design the **database**. When the project includes a dashboard or admin panel, the interface design is mine too.
-
-Laravel, Vue.js, MySQL — **4+ years** turning business requirements into working systems.
-
----
-
-### What I build in every project
-
-My role is clearly defined: backend engineering and database architecture. On projects with an admin dashboard, the UI/UX is mine as well.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### Backend
-Laravel APIs, business logic, authentication, role-based access, multi-module ERP, Eloquent, queues, and cron jobs.
-
-</td>
-<td width="33%" valign="top">
-
-#### Database
-MySQL schema design from scratch, relational modelling, migrations, query optimisation, reporting, and data integrity.
-
-</td>
-<td width="33%" valign="top">
-
-#### UI / UX
-Admin dashboards and client interfaces — from Figma wireframes to a finished, usable screen.
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="mailto:eng.lina.ghojan@gmail.com">Email</a> ·
+  <a href="https://wa.me/963995019487">WhatsApp</a> ·
+  <a href="https://atlasdev.tech/lina-ahmad-ghojan/index.html">Portfolio</a> ·
+  <a href="https://github.com/LinaAhmadGhojan">GitHub</a>
+</p>
 
 ---
 
-### Where I've worked
-
-**CamelCase Company** · Full-Stack Developer, ERP Division  
-2021 — Present
-
-- Built and maintained a large-scale ERP across **10+ modules**: manufacturing, catalog, logistics, sales, HR, warehouse, promotions, CRM, compliance, and supplier evaluation
-- Designed MySQL schemas and REST APIs used by Vue.js and mobile apps
-- Designed admin dashboards in Figma, then worked with the frontend team to ship them
-- Integrated payment gateways, shipping providers, and external ERP connectors
-- Optimised complex SQL — report generation **~60% faster**
-
-**Freelance** · Full-Stack Developer & Vue.js  
-Independent projects
-
-- Delivered end-to-end systems: inventory, school, rent, transport, restaurant, and e-commerce
-- For each project: database schema, Laravel backend, and dashboard UI
-- Designed mobile UI kits in Figma (HR, pharmacy, learning, tasks, retail)
-
----
-
-### Featured on GitHub
-
-- **[SmartFlow](https://github.com/LinaAhmadGhojan/smart-flow)** — Laravel + Vue 3 operations platform (admin, products, categories)
-- **[Wasla Store](https://github.com/LinaAhmadGhojan/wasla-store)** — E-commerce built with Laravel
-- **[Volunteer Management](https://github.com/LinaAhmadGhojan/ManagementVolunteer)** — PHP volunteer management system
-- **[E-commerce Vue](https://github.com/LinaAhmadGhojan/ecommerce-vue)** — Vue.js storefront UI
-
-More screenshots and case work: [portfolio](https://atlasdev.tech/lina-ahmad-ghojan/index.html)
-
----
-
-### Skills & tools
-
-![Laravel](https://img.shields.io/badge/Laravel-0F0F0F?style=for-the-badge&logo=laravel&logoColor=FED000)
-![PHP](https://img.shields.io/badge/PHP_8-0F0F0F?style=for-the-badge&logo=php&logoColor=FED000)
-![Vue.js](https://img.shields.io/badge/Vue.js_3-0F0F0F?style=for-the-badge&logo=vuedotjs&logoColor=FED000)
-![Inertia](https://img.shields.io/badge/Inertia.js-0F0F0F?style=for-the-badge&logoColor=FED000)
-![MySQL](https://img.shields.io/badge/MySQL-0F0F0F?style=for-the-badge&logo=mysql&logoColor=FED000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F0F0F?style=for-the-badge&logo=postgresql&logoColor=FED000)
-![REST API](https://img.shields.io/badge/REST_API-0F0F0F?style=for-the-badge&logoColor=FED000)
-![Redis](https://img.shields.io/badge/Redis-0F0F0F?style=for-the-badge&logo=redis&logoColor=FED000)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0F0F0F?style=for-the-badge&logo=tailwindcss&logoColor=FED000)
-![Figma](https://img.shields.io/badge/Figma-0F0F0F?style=for-the-badge&logo=figma&logoColor=FED000)
-![Docker](https://img.shields.io/badge/Docker-0F0F0F?style=for-the-badge&logo=docker&logoColor=FED000)
-![Nginx](https://img.shields.io/badge/Nginx-0F0F0F?style=for-the-badge&logo=nginx&logoColor=FED000)
-![Git](https://img.shields.io/badge/Git-0F0F0F?style=for-the-badge&logo=git&logoColor=FED000)
-![Linux](https://img.shields.io/badge/Linux-0F0F0F?style=for-the-badge&logo=linux&logoColor=FED000)
-
----
-
-### Let's work together
-
-Open to **backend and full-stack roles**, ERP projects, and Vue.js collaborations.  
-I reply within 24 hours.
-
-- Email: [eng.lina.ghojan@gmail.com](mailto:eng.lina.ghojan@gmail.com)
-- WhatsApp: [+963 995 019 487](https://wa.me/963995019487)
-- Portfolio: [lina ahmad ghojan](https://atlasdev.tech/lina-ahmad-ghojan/index.html)
+### Stack
 
 <div align="center">
-  <br/>
-  <sub>Damascus · Remote · Arabic & English</sub>
+  <img src="https://skillicons.dev/icons?i=laravel,php,vue,mysql,postgres,redis,tailwind,docker,linux,nginx,git,figma&perline=12" alt="Laravel, PHP, Vue, MySQL, PostgreSQL, Redis, Tailwind, Docker, Linux, Nginx, Git, Figma" />
 </div>
+
+---
+
+### Selected work
+
+<div align="center">
+  <img src="https://atlasdev.tech/lina-ahmad-ghojan/2-ecommerce/1.png" width="48%" alt="E-commerce platform" />
+  <img src="https://atlasdev.tech/lina-ahmad-ghojan/8-school/1.png" width="48%" alt="School management system" />
+  <img src="https://atlasdev.tech/lina-ahmad-ghojan/1-resturant/1.png" width="48%" alt="Restaurant management" />
+  <img src="https://atlasdev.tech/lina-ahmad-ghojan/9-Inventory-Management-System-/1.png" width="48%" alt="Inventory management" />
+</div>
+
+<br/>
+
+| Project | What I did | Code |
+| --- | --- | --- |
+| **SmartFlow** | Laravel + Vue 3 operations platform — admin, products, categories | [repo](https://github.com/LinaAhmadGhojan/smart-flow) |
+| **Wasla Store** | E-commerce backend and store flows in Laravel | [repo](https://github.com/LinaAhmadGhojan/wasla-store) |
+| **Volunteer Management** | PHP system for volunteer operations | [repo](https://github.com/LinaAhmadGhojan/ManagementVolunteer) |
+| **E-commerce Vue** | Vue.js storefront UI | [repo](https://github.com/LinaAhmadGhojan/ecommerce-vue) |
+
+---
+
+### Experience
+
+**CamelCase — Full-Stack Developer, ERP** · 2021–Present  
+10+ modules (manufacturing, sales, HR, warehouse, CRM, logistics). MySQL schemas, REST APIs for Vue and mobile, Figma dashboards, payment/shipping integrations. Cut heavy report queries by ~60%.
+
+**Freelance — Full-stack & Vue**  
+Inventory, school, rent, transport, restaurant, and e-commerce systems: schema → Laravel API → dashboard UI. Mobile UI kits in Figma.
+
+---
+
+<p align="center">
+  <strong>Let’s work together</strong><br/>
+  Backend, full-stack, and ERP roles · I reply within 24 hours<br/>
+  <a href="mailto:eng.lina.ghojan@gmail.com">eng.lina.ghojan@gmail.com</a>
+  ·
+  <a href="https://wa.me/963995019487">+963 995 019 487</a>
+</p>
